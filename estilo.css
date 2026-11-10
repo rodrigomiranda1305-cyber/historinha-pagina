@@ -3,8 +3,8 @@
   --anil:#262a63; --anil-2:#2f3474; --anil-3:#3a4086; --anil-linha:#4a5096; --lua:#ffd66e; --lua-2:#e9b73d; --lua-txt:#20234f;
   --lavanda:#f1effa; --lavanda-2:#e4e1f4; --branco:#ffffff; --tinta:#23264f; --tinta-2:#4a4e7a; --suave:#565a85; --linha:#dcd9ee;
   --folha:#22704b; --rosa:#f2b8a6; --foco:#e9b73d;
-  --f-tit:'Young Serif',Georgia,'Times New Roman',serif;
-  --f-txt:'Nunito Sans',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;
+  --f-tit:'Young Serif','Young Serif Fallback',Georgia,'Times New Roman',serif;
+  --f-txt:'Nunito Sans','Nunito Fallback',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;
   --raio:18px;
 }
 html{scroll-behavior:smooth;scroll-padding-top:12px}
